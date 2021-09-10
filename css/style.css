@@ -22,7 +22,7 @@ body {
 
 .header {
     padding-top: 33px;
-    background: url(/img/Rectangle.png);
+    background: url(../img/Rectangle.png);
 }
 
 .header__menu {
@@ -154,7 +154,7 @@ body {
 .projects__img {
     width: 427px;
     height: 450px;
-    background: url(/img/Rec3.png) no-repeat center;
+    background: url(../img/Rec3.png) no-repeat center;
 }
 
 .news__block {
